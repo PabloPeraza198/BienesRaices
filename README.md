@@ -1,0 +1,2 @@
+-- DESCRIPCION DEL REPO DE BIENES RAICES, dentro de este repo:
+-- contempla lo que se encuentra en el folder raiz y los sub folders como BUILD, SRC, Node, modules.
